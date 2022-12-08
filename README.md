@@ -1,4 +1,4 @@
-**City Builder** is a game engine on Windows dedicated to creating **Tile Based, Idle** games.
+**City Builder** is a game engine dedicated to creating **Tile Based, Idle** games written in C. This engine has been set up be used in VScode on Windows, and targets Desktop (Linux, Windows) or Web only.
 
 ## Used library
 1. [raylib](https://www.raylib.com/): A cross-platform game library, which includes: graphic, audio, font, math...
